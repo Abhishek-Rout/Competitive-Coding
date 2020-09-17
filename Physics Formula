@@ -1,0 +1,64 @@
+1)Scalars and Vectors
+ Parallelogram Law of Vectors Addition:
+A=x+iy B=x+iy
+where A=sqrt(x*x+y*y)
+B=sqrt(x*x+y*y)
+R = sqrt(A**2+B**2+2*A*B)
+tan β = (B*sinθ)/(A+B*cosθ)
+
+2)Projectile Motion
+*motion in one dimension
+v=final velocity
+u=initial Velocity
+a=accerlation
+t=time
+v=u+a*t
+v*v-u*u=2*a*s
+s=u*t-(a*t*t)/2
+*motion in two dimension
+v=final velocity
+u=initial Velocity
+g is the acceleration due to gravity
+t is the time taken
+x = u*t*cosθ, y = (u*t*sinθ)−((g*t)/2)
+Time of Flight(T)=(2*u*sinθ)/g
+Horizontal range(R)=(u*u*sin2θ)/g
+Max Height(H)=(u*u*sinθ*sinθ)/2*g
+
+3)Force
+*Force
+force = mass x acceleration
+F = m*a
+F = force
+m = mass
+a = acceleration
+*Gravitational force of attraction
+m2 = mass2 
+m1 = mass1
+F=(6.67*10**-11*m1*m2)/r*r
+*Law Of Momentum
+m2 = mass2 
+m1 = mass1
+m1*u1+m2*u2=m1*v1+m2*v2
+*Work Done
+F=force
+D=displacement
+W.D=F*D
+*Kinetic energy
+K.E=(m*v*v)/2
+*Potential Energy
+P.E=m*g*h
+*Torque
+F=magnitude of force
+r=perpendicular distance between two forces
+T=F*r
+*Weight
+W=m*g 
+
+
+4)Sound
+*Frequency of sound
+F=1/T
+*Speed of Sound
+V=F*Wavelength
+

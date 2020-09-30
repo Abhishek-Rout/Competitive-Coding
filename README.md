@@ -31,4 +31,5 @@ While coding you may have faced losing time in coding for all the functions. But
 
 Visualizing your code helps you get an idea about how your code works.
 
-<a href="http://www.pythontutor.com/cpp.html#mode=edit"> C++ </a>  You can visualize all your codes here(independent of language).
+<a href="http://www.pythontutor.com/cpp.html#mode=edit"> C++ Code</a> <a href="http://www.pythontutor.com/visualize.html#mode=edit"> Python Code Java Code</a>
+You can visualize all your codes here(independent of language).

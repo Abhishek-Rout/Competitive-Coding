@@ -26,3 +26,8 @@ For example- If your problem is about getting prime number in between two number
 ### 5.	Being open to more coding languages is better
 
 While coding you may have faced losing time in coding for all the functions. But by knowing many languages you can use different in-built functions present in different languages. Also in competitive coding competitions you are given different time limits for differ languages so you can write in a language with maximum time, which will reduce your TLE. Also execution time of some data structures like dictionaries, list present in python.
+
+### 6. Visualize your code
+
+Visualizing your code helps you get an idea about how your code works.
+

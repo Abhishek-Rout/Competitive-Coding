@@ -1,0 +1,12 @@
+function getCount(objects) {
+    let count=0;
+    for(var a of objects)
+    {
+        if(a.x==a.y)
+        {
+            count=count+1;
+        }
+    }
+    return count;
+    
+}

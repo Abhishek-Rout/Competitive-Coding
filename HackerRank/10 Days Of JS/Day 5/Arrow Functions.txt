@@ -1,0 +1,21 @@
+function modifyArray(nums) {
+    let count=0;
+    for(let n of nums)
+    {
+        count=count+1;
+    }
+
+    for(let i=0;i<count;i++)
+    {
+        if(nums[i]%2==0)
+        {
+            nums[i]=nums[i]*2;
+        }
+        else
+        {
+            nums[i]=nums[i]*3;
+        }
+    }
+    return nums;
+    
+}

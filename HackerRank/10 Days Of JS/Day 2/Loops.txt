@@ -1,0 +1,19 @@
+function vowelsAndConsonants(s) {
+    let vo=["a","e","i","o","u"]
+
+    for(let v of s)
+    {
+        if(vo.includes(v))
+        {
+            console.log(v)
+        }
+    }
+    
+    for(let v of s)
+    {
+        if(!vo.includes(v))
+        {
+            console.log(v)
+        }
+    }
+}

@@ -1,0 +1,20 @@
+function getSecondLargest(nums) {
+    // Complete the function
+    let max=0;
+    for(let n of nums)
+    {
+        if(n>max)
+        {
+            max=n;
+        }
+    }
+   let secmax=0;
+   for(let n of nums)
+    {
+        if(n>secmax && n!=max && n<max)
+        {
+            secmax=n;
+        }
+    }
+    return secmax;
+}

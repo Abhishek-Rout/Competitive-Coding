@@ -1,0 +1,10 @@
+function Rectangle(a, b) {
+    var r=new Object()
+
+    r.length=a;
+    r.width=b;
+    r.perimeter=2*(a+b);
+    r.area=a*b;
+
+    return r;
+}

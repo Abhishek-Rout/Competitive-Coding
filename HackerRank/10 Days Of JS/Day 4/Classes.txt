@@ -1,0 +1,16 @@
+class Polygon
+{
+    constructor(sides) 
+    {
+        this.sides = sides
+    }
+
+    perimeter() 
+    {
+        let per = 0;
+        this.sides.forEach((length, idx) => {
+            per = per + length;
+        })
+        return per;
+    }
+}
